@@ -3,6 +3,9 @@
 
 [링크]: [http://gksmfhost.dothome.co.kr/mega/] “영화 예매 사이트”
 
+<h3>✓ 기간 : 1일 </h3>
+<hr>
+
 ![image](https://github.com/c1oud-dev/BOJ/assets/117587834/bddd4985-7388-4d9a-9399-cc75bb8f818a)
 
 
